@@ -2,7 +2,7 @@
 title: "EAES 420 Practice Midterm Instructions"
 output: 
   tufte::tufte_html:
-    css: ../exam.css
+    css: exam.css
     tufte_variant: "envisioned"
     highlight: pygments
 link-citations: yes
