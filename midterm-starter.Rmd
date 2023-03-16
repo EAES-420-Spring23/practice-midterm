@@ -1,5 +1,5 @@
 ---
-title: "EAES 494 Midterm Starter"
+title: "EAES 420 Midterm Starter"
 author: "Enter your name"
 date: "Enter the date"
 output: html_document
@@ -13,7 +13,7 @@ output: html_document
 
 ```{r load-packages, message = F}
 library(tidyverse)
-library(palmerpenguins)
+library(openintro)
 ```
 
 ## Exericses
@@ -44,9 +44,9 @@ library(palmerpenguins)
 
 ### Exericse 7
 
-```{r visualize-penguin-flipper-length, eval = F}
-___ %>% 
-  ggplot(aes(x = sex, y = flipper_length_mm)) +
+```{r visualize-earthquakes-deaths, eval = F}
+earthquakes_subset %>% 
+  ggplot(aes(x = month, y = deaths)) +
   geom_violin() +
   theme_classic()
 ```
