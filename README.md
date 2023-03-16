@@ -1,8 +1,7 @@
 # Midterm Rules
 
 Please read the following instructions in full.
-These instructions apply to the in-class midterm which will be held in class **9AM-11AM on Tuesday, March 28, 2023**.
-I will print copies of these instructions and I will post them under **Blackboard \> Weekly Content \> Week 11**.
+These instructions apply to the in-class midterm which will be held during our computer lab **10AM-12PM on Thursday, March 30, 2023**.
 
 ## Rules during the midterm
 
@@ -10,10 +9,8 @@ I will print copies of these instructions and I will post them under **Blackboar
 
 Your solutions must be written up in the R Markdown (Rmd) file called `midterm-starter.Rmd`.
 This file must include your code and any requested narrative responses.
-Your graded submission will be whatever has been **pushed** to your midterm repository at the end of class (**10:50pm, Monday, November 8, 2021**).\
-
-**Unless** you have requested accomodations, please email to remind me.
-Commit and push the `midterm-starter.Rmd` as much as you want during the midterm, and again when you are finished.
+Your graded submission will be whatever has been **pushed** to your midterm repository at the end of class.
+So, remember to **commit and push** the `midterm-starter.Rmd` as much as you want during the midterm, and again when you are finished.
 
 ### Asking for help
 
@@ -26,7 +23,7 @@ This will be considered cheating.
 
 ### Notes, cheatsheets, and help pages
 
-You **can** refer to your Unit 1 - 6 "Cheatsheets", any other hand outs I provided previously (including these instructions), as well as your personal notes, during the in-class exam.
+You **can** refer to your Unit 1 - 5 "Cheatsheets" and other Cheatsheets under Blackboard > Course Info., any other hand outs I provided previously (including these instructions), as well as your personal notes, and **lecture slides** during the in-class exam.
 I will bring extra copies of the cheat sheets to the in-class midterm.
 You **may not** use online searches but **you may** use R's help pages accessed using `?` for a known package or function or `??` for a general search for a term.
 
